@@ -8,4 +8,5 @@ fields:
   hidden: false
   default: post
 pages:
+- _posts/g.html
 - _posts/te.html
